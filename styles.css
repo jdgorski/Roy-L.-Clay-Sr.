@@ -1,0 +1,20 @@
+body{background-image: url(https://images.squarespace-cdn.com/content/v1/5552347be4b06e6e382444f5/1535345128760-MMMA37ACS8T8W27NWOSR/A+Seat+At+The+Table+film.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+color: antiquewhite;
+}
+p{
+    background-color: antiquewhite;
+    color: rgb(170, 18, 145);
+}
+table,th,td,tr {
+    background-color: antiquewhite;
+    border: 1px solid black;
+}
+a{
+    background-color: antiquewhite;
+    color: rgb(170, 18, 145);
+}
